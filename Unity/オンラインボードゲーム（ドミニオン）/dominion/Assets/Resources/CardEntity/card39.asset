@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ce2d5a8c5df3034184444467d13e69d, type: 3}
+  m_Name: card39
+  m_EditorClassIdentifier: 
+  point: 0
+  name: "\u793C\u62DD\u5802"
+  plusAction: 0
+  plusCard: 0
+  cost: 2
+  money: 0
+  plusPurchase: 0
+  isActionCard: 0
+  icon: {fileID: 21300000, guid: d18325ba9a9c4d849a03fc14e589a870, type: 3}
+  cardCount: 10
